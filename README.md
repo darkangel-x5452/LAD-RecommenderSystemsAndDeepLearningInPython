@@ -1,4 +1,6 @@
 # recommender-systems-and-deep-learning-in-python
+Udemy Course
+
 Recommender Systems and Deep Learning in Python by Lazy Programmer Inc.
 
 This project is the notes taken during the course for tracking and source control.
